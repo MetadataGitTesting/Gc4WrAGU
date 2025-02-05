@@ -1,0 +1,62 @@
+name: pei.bins
+description: interface
+version: 0.0.1
+author: r0p81p52.rmwt3hva@toztrp1t.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: peibins
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 12:58:01'
+pipelines:
+  pipelines/Dr__Ed_BatzSherman_Wadd_EvverRosario_Borer:
+    name: Dr__Ed_BatzSherman_Wadd_EvverRosario_Borer
+    description: null
+    author: r0p81p52.rmwt3hva@toztrp1t.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-02-05 12:58:01'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 12:58:01'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T12:58:01.31638Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '918294195'
+  createdAt: '2025-02-05T12:58:01.31638Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
